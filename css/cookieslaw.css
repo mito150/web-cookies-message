@@ -1,0 +1,21 @@
+.cookies {
+    font-size: 11px;
+    line-height: 16px;
+    background-color: #DFE9F5;
+    padding: 10px 10px;
+    display: none;
+    border-bottom: 4px solid #0C92CB;
+}
+
+.cookies_msg {
+    margin: 0 0 5px 0;
+}
+
+.cookies_btn p {
+    display: inline;
+}
+
+.cookies_btn button {
+    margin: 0 0 0 10px;
+    display: inline;
+}
